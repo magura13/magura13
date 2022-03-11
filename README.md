@@ -1,5 +1,5 @@
-## Oiii eu sou Tiago Lelis, estou aprendendo fullstack pela Blue Edtech!
-## Hiii i'm Tiago Lelis. I am learning fullstack at Blue Edtech!
+## Oi eu sou Tiago Lelis, estou aprendendo fullstack pela Blue Edtech!
+## Hi i'm Tiago Lelis. I am learning fullstack at Blue Edtech!
 <div align="center">
   <a href="https://github.com/magura13">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=magura13&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
