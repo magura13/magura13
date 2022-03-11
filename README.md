@@ -1,4 +1,4 @@
-## Oiii eu sou Tiago Lelis, estou aprendendo programação pela Blue Edtech!
+## Oiii eu sou Tiago Lelis, estou aprendendo fullstack pela Blue Edtech!
 ## Hiii i'm Tiago Lelis. I am learning fullstack at Blue Edtech!
 <div align="center">
   <a href="https://github.com/magura13">
