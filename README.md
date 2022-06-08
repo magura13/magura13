@@ -39,8 +39,6 @@ Visual Studio Code (VsCode) ;
 HTML ;
 Git ;
 GitHub;
-
-📚📖 Learning soon (next 5 months) / Aprenderei em breve (próximos 5 meses) :
 CSS ;
 Express ;
 SQL ;
@@ -51,6 +49,9 @@ NoSQL ;
 MoongoDB ;
 Mongoose ;
 JSON ;
+
+📚📖 Learning soon (next 3 months) / Aprenderei em breve (próximos 3 meses) :
+
 Nest ;
 TypeScript ;
 PostgreSQL or MySQL ;
