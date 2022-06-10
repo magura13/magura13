@@ -17,11 +17,8 @@
 ### Olá, Sou o Tiago Lelis👋
 
 ⚒ Sharpening the Tools / Afiando as ferramentas
-I’m currently learning FullStack Web Development at Blue Ed Tech.
 
-/
-
-Atualmente estudo Desenvolvimento web FullStack na Blue Ed Tech.
+I’m currently learning FullStack Web Development at Blue Ed Tech. / Atualmente estudo Desenvolvimento web FullStack na Blue Ed Tech.
 
 🚀 Learning to Use / Aprendendo a usar:
 JavaScript ;
