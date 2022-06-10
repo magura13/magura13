@@ -16,15 +16,6 @@
 
 ### Olá, Sou o Tiago Lelis👋
 
-🏹 Goals / Objetivos
-Chasing my first opportunity to work as a Dev. My first step was Web Development but I'm eager to learn and work in other areas as well.
-Such as: Games, softwares, mobile, etc.
-
-/
-
-Buscando minha primeira oportunidade de trabalho como Dev. Meu primeiro passo foi Desenvolvimento Web mas tenho interesse em aprender e atuar em outras áreas também.
-Ex: Games, softwares, mobile, etc.
-
 ⚒ Sharpening the Tools / Afiando as ferramentas
 I’m currently learning FullStack Web Development at Blue Ed Tech.
 
