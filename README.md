@@ -1,5 +1,3 @@
-## Oi eu sou Tiago Lelis, estou aprendendo fullstack pela Blue Edtech!
-## Hi i'm Tiago Lelis. I am learning fullstack at Blue Edtech!
 <div align="center">
   <a href="https://github.com/magura13">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=magura13&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -20,7 +18,7 @@
 
 I’m currently learning FullStack Web Development at Blue Ed Tech. / Atualmente estudo Desenvolvimento web FullStack na Blue Ed Tech.
 
-🚀 Learning to Use / Aprendendo a usar:
+🚀 Skills:
 JavaScript ;
 NodeJs ;
 Visual Studio Code (VsCode) ;
@@ -38,7 +36,7 @@ MoongoDB ;
 Mongoose ;
 JSON ;
 
-📚📖 Learning soon (next 3 months) / Aprenderei em breve (próximos 3 meses) :
+📚📖 Learning / Aprendendo:
 
 Nest ;
 TypeScript ;
