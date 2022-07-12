@@ -33,9 +33,6 @@ NoSQL ;
 MoongoDB ;
 Mongoose ;
 JSON ;
-
-📚📖 Learning / Aprendendo:
-
 Nest ;
 TypeScript ;
 PostgreSQL or MySQL ;
