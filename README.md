@@ -7,7 +7,6 @@
 ### Olá, Sou o Tiago Lelis // Hi, i'm Tiago Lelis👋
 </div>
 
-![Status](./profile-3d-contrib/profile-night-rainbow.svg)
   
 
   
