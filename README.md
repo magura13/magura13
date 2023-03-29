@@ -24,4 +24,4 @@
 
   
  
-   ![Snake animation](https://github.com/magura13/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/magura13/magura13/blob/output/github-contribution-grid-snake.svg)
