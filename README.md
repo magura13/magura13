@@ -5,7 +5,10 @@
 
 <div align = center>
 ### Olá, Sou o Tiago Lelis // Hi, i'm Tiago Lelis👋
-At the moment in love with NODE, but always ready to learn something new! Let's try together?
+</div>
+
+<div align = center>
+   At the moment in love with NODE, but always ready to learn something new! Let's try together?
 </div>
 
   
