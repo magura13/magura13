@@ -8,7 +8,7 @@
 </div>
 
 <div align = center>
-   At the moment in love with NODE, but always ready to learn something new! Let's try together?
+  Currently involved with NodeJS, but always ready to learn something new! Let's try together?
 </div>
 
   
