@@ -10,10 +10,3 @@
 <div align = center>
   Currently involved with NodeJS, but always ready to learn something new! Let's try together?
 </div>
-
-  
-
-  
-
- | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=magura13&theme=dark&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=magura13&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
- | ----------- | ----------- |
